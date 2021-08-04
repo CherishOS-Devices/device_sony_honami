@@ -1,1 +1,2 @@
-# device_sony_honami
+android_device_sony_honami
+==========================
