@@ -1,8 +1,8 @@
 [
   {
-    "repository": "daviiid99/android_device_sony_honami",
+    "repository": "CherishOS-Devices/device_sony_honami",
     "target_path": "device/sony/honami",
-    "branch": "lineage-18.1"
+    "branch": "eleven"
   },
   
  
@@ -58,11 +58,5 @@
     "repository": "LineageOS/android_external_sony_boringssl-compat",
     "target_path": "external/sony/boringssl-compat",
     "branch": "lineage-18.1"
-  },
-  
-    {
-    "repository": "daviiid99/LineageOS_Honami",
-    "target_path": "RPatches/",
-    "branch": "patches"
   }   
 ]
